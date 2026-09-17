@@ -1,2 +1,2 @@
-# ECE444-F2026-PRA1
+# Simona Liu
 ECE444 PRA 1
